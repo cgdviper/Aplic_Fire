@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818732039380",
+    "firebase_url": "https://miprimerprf.firebaseio.com",
+    "project_id": "miprimerprf",
+    "storage_bucket": "miprimerprf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818732039380:android:97777713e90e5aac87cf41",
+        "android_client_info": {
+          "package_name": "com.example.aplic_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818732039380-pkbniqndtkjmbm49ks47h39hgnccqem6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplic_fire",
+            "certificate_hash": "13df9eac7ce8ff7c8b514a57634630112ea84b91"
+          }
+        },
+        {
+          "client_id": "818732039380-d9mqf8p1q7hhqn39t9tdg9f4k6n6vn05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQfPzwJYL7PilcogudYDwn861gbm2ifs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818732039380-d9mqf8p1q7hhqn39t9tdg9f4k6n6vn05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
